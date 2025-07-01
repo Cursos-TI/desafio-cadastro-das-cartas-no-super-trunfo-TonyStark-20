@@ -115,6 +115,7 @@ int main() {
     //Exibição do cadastro linha por linha
 
     printf("\n");
+    
 
     printf("\nComparação de Cartas:\n");
     printf("População: Carta 1 venceu (%d)\n", populacao > populacao2);
